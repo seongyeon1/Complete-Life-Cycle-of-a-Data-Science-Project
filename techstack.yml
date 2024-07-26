@@ -1,0 +1,20 @@
+repo_name: seongyeon1/Complete-Life-Cycle-of-a-Data-Science-Project
+report_id: 421f2c897e7132d47c6c8bd9a780f83b
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-26T03:22:03+00:00'
+requested_by: achuthasubhash
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/seongyeon1/Complete-Life-Cycle-of-a-Data-Science-Project
+  detection_source: Repo Metadata
